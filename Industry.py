@@ -100,8 +100,9 @@ def Industry_screen(ticker):
 
 
 def main(sort=0):
+    path = 'stock.txt'
     
-    file = open(r"C:\Users\mark\Desktop\Penny Screens\Penny_Options_under$5.txt",'r')
+    file = open(path,'r')
     
     our_list = []
     
@@ -143,7 +144,7 @@ def main(sort=0):
         print(ticker+', '+price+', '+sector+', '+industry+'\n')
         
     file.close()
-    file1 = open(r"C:\Users\mark\Desktop\Penny Screens\Industry.txt",'w')
+    file1 = open(r"Industry.txt",'w')
     file1.write('Ticker, Price, Sector, Industry\n')
     
     if sort == 1:
