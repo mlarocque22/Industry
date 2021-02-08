@@ -1,0 +1,24 @@
+Ticker, Price, Sector, Industry
+AHC, 2.4500, Communication Services, Publishing
+ARC, 2.1900, Industrials, Specialty Business Services
+CCO, 1.9400, Communication Services, Advertising Agencies
+CHS, 2.3400, Consumer Cyclical, Apparel Retail
+CSLT, 1.8300, Healthcare, Health Information Services
+DS, 2.4400, Consumer Cyclical, Leisure
+ESGC, 2.1000, Communication Services, Entertainment
+FENG, 1.4700, Communication Services, Internet Content & Information
+FTK, 2.1100, Energy, Oil & Gas Equipment & Services
+GEN, 0.7549, Healthcare, Medical Care Facilities
+HIL, 2.3100, Industrials, Engineering & Construction
+JP, 2.3000, Financial Services, Asset Management
+LEE, 1.9000, Communication Services, Publishing
+LYG, 1.9900, Financial Services, Banks—Regional
+MTL, 1.9000, Basic Materials, Steel
+MUX, 1.1600, Basic Materials, Other Precious Metals & Mining
+OSG, 2.1600, Energy, Oil & Gas Midstream
+PVL, 1.1800, Energy, Oil & Gas E&P
+RRD, 2.4500, Industrials, Specialty Business Services
+SB, 2.1800, Industrials, Marine Shipping
+SUPV, 1.8600, Financial Services, Banks—Regional
+TTI, 2.2000, Energy, Oil & Gas Equipment & Services
+XIN, 2.3800, Real Estate, Real Estate—Development
