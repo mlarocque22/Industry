@@ -1,0 +1,183 @@
+Ticker, Price, Sector, Industry
+PTMN, 2.0100, , 
+GSM, 3.4500, Basic Materials, Other Industrial Metals & Mining
+HDSN, 1.5900, Basic Materials, Specialty Chemicals
+RKDA, 3.2500, Basic Materials, Agricultural Inputs
+ALSK, 3.2800, Communication Services, Telecom Services
+ANTE, 3.5000, Communication Services, Telecom Services
+AUTO, 3.3200, Communication Services, Internet Content & Information
+CNET, 2.9400, Communication Services, Advertising Agencies
+GNUS, 1.9600, Communication Services, Entertainment
+LIVX, 4.4440, Communication Services, Entertainment
+MARK, 4.4600, Communication Services, Internet Content & Information
+MDCA, 3.3200, Communication Services, Advertising Agencies
+NCMI, 4.3500, Communication Services, Advertising Agencies
+QTT, 3.8100, Communication Services, Internet Content & Information
+RNWK, 3.0250, Communication Services, Electronic Gaming & Multimedia
+SCOR, 4.2900, Communication Services, Advertising Agencies
+SIFY, 2.9800, Communication Services, Telecom Services
+SRAX, 4.77, Communication Services, Advertising Agencies
+TRVG, 2.6600, Communication Services, Internet Content & Information
+UXIN, 1.4700, Communication Services, Internet Content & Information
+VEON, 1.6900, Communication Services, Telecom Services
+CXDC, 1.1400, Consumer Cyclical, Auto Parts
+DXYN, 4.4000, Consumer Cyclical, Textile Manufacturing
+GTIM, 3.6400, Consumer Cyclical, Restaurants
+ICON, 2.9100, Consumer Cyclical, Apparel Manufacturing
+KXIN, 3.8900, Consumer Cyclical, Auto & Truck Dealerships
+RAVE, 1.2500, Consumer Cyclical, Restaurants
+SECO, 2.8400, Consumer Cyclical, Internet Retail
+TOUR, 2.8000, Consumer Cyclical, Travel Services
+XSPA, 2.1983, Consumer Cyclical, Personal Services
+ZAGG, 4.2600, Consumer Cyclical, Specialty Retail
+AGFS, 2.2800, Consumer Defensive, Farm Products
+NBEV, 3.6900, Consumer Defensive, Beverages—Non-Alcoholic
+REED, 1.0800, Consumer Defensive, Beverages—Non-Alcoholic
+SANW, 3.6500, Consumer Defensive, Farm Products
+AXAS, 3.6250, Energy, Oil & Gas E&P
+BKEP, 2.0900, Energy, Oil & Gas Midstream
+BRY, 4.3600, Energy, Oil & Gas E&P
+CCLP, 1.6900, Energy, Oil & Gas Equipment & Services
+CDEV, 3.4500, Energy, Oil & Gas E&P
+CLMT, 3.9000, Energy, Oil & Gas E&P
+FLMN, 3.7400, Energy, Oil & Gas E&P
+GIFI, 4.0600, Energy, Oil & Gas Equipment & Services
+GMLP, 3.4600, Energy, Oil & Gas Midstream
+MMLP, 1.9100, Energy, Oil & Gas Midstream
+SND, 2.0700, Energy, Oil & Gas Equipment & Services
+TELL, 3.3900, Energy, Oil & Gas E&P
+TUSK, 4.5100, Energy, Oil & Gas Equipment & Services
+VTNR, 2.0750, Energy, Oil & Gas Refining & Marketing
+ASRV, 3.8600, Financial Services, Banks—Regional
+ATAX, 4.6000, Financial Services, Mortgage Finance
+BGCP, 4.0795, Financial Services, Capital Markets
+BKCC, 3.4000, Financial Services, Asset Management
+CPSS, 4.2300, Financial Services, Credit Services
+FCRD, 3.8200, Financial Services, Asset Management
+FRBK, 3.3500, Financial Services, Banks—Regional
+HALL, 4.3300, Financial Services, Insurance—Property & Casualty
+MHLD, 2.5000, Financial Services, Insurance—Reinsurance
+OXSQ, 3.9200, Financial Services, Asset Management
+ABEO, 2.6700, Healthcare, Biotechnology
+ABIO, 4.7600, Healthcare, Biotechnology
+ABUS, 4.2900, Healthcare, Biotechnology
+ACER, 4.0500, Healthcare, Biotechnology
+ACRX, 2.3500, Healthcare, Drug Manufacturers—Specialty & Generic
+ADMA, 2.6300, Healthcare, Biotechnology
+ADMP, 1.3000, Healthcare, Drug Manufacturers—Specialty & Generic
+ADTX, 3.4500, Healthcare, Biotechnology
+AEZS, 1.1800, Healthcare, Biotechnology
+AGRX, 3.0000, Healthcare, Drug Manufacturers—Specialty & Generic
+AKBA, 4.57, Healthcare, Biotechnology
+APTO, 4.5400, Healthcare, Biotechnology
+APTX, 3.9700, Healthcare, Biotechnology
+ASRT, 0.8797, Healthcare, Drug Manufacturers—Specialty & Generic
+ATHX, 2.7500, Healthcare, Biotechnology
+ATOS, 4.0000, Healthcare, Biotechnology
+ATRS, 4.7400, Healthcare, Medical Instruments & Supplies
+BDSI, 4.1900, Healthcare, Biotechnology
+BXRX, 1.7700, Healthcare, Biotechnology
+CALA, 3.1900, Healthcare, Biotechnology
+CATB, 3.3100, Healthcare, Biotechnology
+CDTX, 2.5500, Healthcare, Biotechnology
+CERC, 3.4300, Healthcare, Biotechnology
+CHMA, 4.4653, Healthcare, Biotechnology
+CLBS, 2.2700, Healthcare, Biotechnology
+CLSD, 3.4700, Healthcare, Biotechnology
+CLSN, 1.9300, Healthcare, Biotechnology
+CPRX, 4.4200, Healthcare, Biotechnology
+CRBP, 2.6400, Healthcare, Biotechnology
+CRVS, 4.1000, Healthcare, Biotechnology
+CTIC, 3.9400, Healthcare, Biotechnology
+CYCN, 4.5200, Healthcare, Biotechnology
+DRRX, 2.5300, Healthcare, Drug Manufacturers—Specialty & Generic
+EVFM, 3.4800, Healthcare, Biotechnology
+EVOK, 3.0500, Healthcare, Drug Manufacturers—Specialty & Generic
+GALT, 2.3600, Healthcare, Biotechnology
+GENE, 4.51, Healthcare, Diagnostics & Research
+GERN, 2.0000, Healthcare, Biotechnology
+GLMD, 4.6300, Healthcare, Biotechnology
+GLYC, 4.0900, Healthcare, Biotechnology
+GNCA, 3.2500, Healthcare, Biotechnology
+HBIO, 4.93, Healthcare, Medical Instruments & Supplies
+HEPA, 2.3700, Healthcare, Biotechnology
+HUGE, 2.2500, Healthcare, Drug Manufacturers—Specialty & Generic
+IMV, 4.4200, Healthcare, Biotechnology
+INFI, 4.44, Healthcare, Biotechnology
+JAGX, 2.7700, Healthcare, Biotechnology
+KRMD, 4.3700, Healthcare, Medical Instruments & Supplies
+LPCN, 1.9000, Healthcare, Biotechnology
+LQDA, 3.2200, Healthcare, Biotechnology
+MBIO, 4.7000, Healthcare, Biotechnology
+MEIP, 3.8600, Healthcare, Biotechnology
+MLND, 2.3500, Healthcare, Biotechnology
+MRKR, 2.2700, Healthcare, Biotechnology
+NBRV, 2.9900, Healthcare, Biotechnology
+NEOS, 0.9345, Healthcare, Drug Manufacturers—Specialty & Generic
+NEPT, 2.3400, Healthcare, Drug Manufacturers—Specialty & Generic
+NERV, 3.4000, Healthcare, Biotechnology
+NH, 4.6300, Healthcare, Health Information Services
+NMTR, 1.8100, Healthcare, Biotechnology
+NYMX, 3.0300, Healthcare, Biotechnology
+OBSV, 3.9000, Healthcare, Biotechnology
+OGI, 2.5400, Healthcare, Drug Manufacturers—Specialty & Generic
+OVID, 3.2470, Healthcare, Biotechnology
+PHAS, 4.3500, Healthcare, Biotechnology
+PIRS, 2.8800, Healthcare, Biotechnology
+PTE, 1.2300, Healthcare, Biotechnology
+QLGN, 4.1400, Healthcare, Biotechnology
+REPH, 3.7300, Healthcare, Drug Manufacturers—Specialty & Generic
+RGLS, 1.6000, Healthcare, Biotechnology
+RIGL, 4.8000, Healthcare, Biotechnology
+RMTI, 1.4400, Healthcare, Drug Manufacturers—Specialty & Generic
+SBBP, 3.1000, Healthcare, Biotechnology
+SESN, 2.4100, Healthcare, Biotechnology
+SLNO, 2.7100, Healthcare, Diagnostics & Research
+SNDL, 1.1500, Healthcare, Drug Manufacturers—Specialty & Generic
+SNSS, 3.0700, Healthcare, Biotechnology
+SPPI, 3.9700, Healthcare, Biotechnology
+SRGA, 2.9073, Healthcare, Medical Devices
+SVRA, 2.0000, Healthcare, Biotechnology
+SYBX, 4.2400, Healthcare, Biotechnology
+TLSA, 4.0800, Healthcare, Biotechnology
+TRVN, 2.6600, Healthcare, Biotechnology
+TTNP, 3.7500, Healthcare, Biotechnology
+TTOO, 3.2500, Healthcare, Diagnostics & Research
+TXMD, 2.2370, Healthcare, Drug Manufacturers—Specialty & Generic
+TYME, 2.4700, Healthcare, Biotechnology
+VBIV, 3.8951, Healthcare, Biotechnology
+VBLT, 2.5000, Healthcare, Biotechnology
+VCNX, 3.1600, Healthcare, Biotechnology
+VSTM, 2.3800, Healthcare, Biotechnology
+CLIR, 4.5300, Industrials, Pollution & Treatment Controls
+DGLY, 2.7100, Industrials, Security & Protection Services
+GASS, 2.7700, Industrials, Marine Shipping
+HBP, 4.0000, Industrials, Industrial Distribution
+HWCC, 3.8800, Industrials, Industrial Distribution
+NXTD, 1.6300, Industrials, Security & Protection Services
+OPTT, 4.9200, Industrials, Electrical Equipment & Parts
+PFMT, 1.1900, Industrials, Specialty Business Services
+RAIL, 4.2300, Industrials, Railroads
+RCMT, 2.9900, Industrials, Engineering & Construction
+STCN, 1.9300, Industrials, Conglomerates
+DHC, 4.4600, Real Estate, REIT—Healthcare Facilities
+NYMT, 4.0300, Real Estate, REIT—Mortgage
+AWRE, 4.99, Technology, Software—Application
+BSQR, 4.26, Technology, Software—Application
+CRNT, 4.83, Technology, Communication Equipment
+GSUM, 1.8500, Technology, Software—Application
+LLNW, 4.5200, Technology, Software—Infrastructure
+MIND, 2.2700, Technology, Scientific & Technical Instruments
+NTWK, 4.5000, Technology, Software—Application
+PXLW, 3.4900, Technology, Semiconductors
+QUIK, 4.2700, Technology, Semiconductors
+SEAC, 1.3400, Technology, Software—Application
+SNCR, 4.83, Technology, Software—Application
+SPRT, 2.4900, Technology, Software—Application
+SREV, 1.6900, Technology, Software—Application
+SYNC, 2.0900, Technology, Software—Infrastructure
+TNAV, 4.7800, Technology, Software—Application
+UEPS, 4.6835, Technology, Software—Infrastructure
+UTSI, 2.0600, Technology, Communication Equipment
+WATT, 3.9800, Technology, Scientific & Technical Instruments
+WTRH, 4.0300, Technology, Software—Application
