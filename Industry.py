@@ -2,7 +2,7 @@ import requests
 from requests.exceptions import Timeout
 
 
-
+#code to get the industry and sector information for an individual stock
 def Industry_screen(ticker):
 
     path = 'https://finance.yahoo.com/quote/' + ticker + '/profile?p=' + ticker
@@ -82,17 +82,17 @@ def Industry_screen(ticker):
     
     str_industry = sub[begin:end]
     
+    #replace the html text for &amp with just &
     str_industry = str_industry.replace('&amp;','&')
     
     return(str_sector,str_industry)
     
 
 
-
+#change the path to where your list of stocks are located
 def main(sort=0):
-    path = 'stock.txt'
     
-    file = open(path,'r')
+    file = open(r"Penny_Options_$10.txt",'r')
     
     our_list = []
     
@@ -117,6 +117,7 @@ def main(sort=0):
     print('Ticker, Price, Sector, Industry')
     for line in our_list:
         
+        #lazy way of fixing text file problems
         ticker = line.rsplit('\t',1)[0]     
         tickers = ticker.rsplit(',')
         tickers[0]= tickers[0][1:]
@@ -137,6 +138,10 @@ def main(sort=0):
     file1 = open(r"Industry.txt",'w')
     file1.write('Ticker, Price, Sector, Industry\n')
     
+    #allows for the code to be sorted.
+    #if you want it sorted by the more general sector
+    #change it to lambda x: x[2]
+    #otherwise by default it will screen by the specific industry
     if sort == 1:
         industry_options.sort(key = lambda x: x[2])
     for line in industry_options:
@@ -146,8 +151,3 @@ def main(sort=0):
         file1.write(str(this_line))   
     
     file1.close()
-
-main(sort=1)
-        
-        
-    
